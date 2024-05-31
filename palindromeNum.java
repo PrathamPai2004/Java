@@ -1,5 +1,12 @@
 import java.util.Scanner;
 
+//This program checks if the number inputted by the user is a palindrome or not 
+//input : 121
+//output : true
+//-->->->->->->->->-
+//input : 863
+//output : false
+
 public class palindromeNum {
     public static void main(String[] args) {
 
